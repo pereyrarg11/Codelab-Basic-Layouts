@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Codelab Basic Layouts</string>
+    <string name="action_show_less">Show less</string>
+    <string name="action_show_more">Show more</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices mollis rhoncus. Pellentesque faucibus, sem eget tincidunt euismod, nisi diam convallis orci, id vestibulum mi elit ut ex. Fusce sed felis orci. Nam aliquam, ligula eu viverra consectetur, nisi sem imperdiet lectus, pulvinar ornare nisl augue lacinia sem.</string>
 </resources>
